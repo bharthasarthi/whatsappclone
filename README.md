@@ -1,4 +1,4 @@
-Whatsapp Clone using flutter
+Whatsapp simple Clone using flutter
 
 Contents:
 ->login/signup page<br>
